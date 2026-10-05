@@ -8,7 +8,7 @@ export function HeroSection() {
 
   return (
 
-    <section
+    <section 
       id="inicio"
       className="relative min-h-screen flex items-center justify-center overflow-hidden"
     >
